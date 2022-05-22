@@ -1,4 +1,4 @@
-sudo: require
+sudo: required
 service:
   - docker
 before_install:
